@@ -1,0 +1,23 @@
+.EIrz6a_hero-body {
+    background-color: #607d8b !important;
+}
+
+.SPgITW_sectionIcon {
+    background: #607d8b !important;
+}
+
+.EIrz6a_tag {
+    background-color: #9e9e9e !important;
+}
+
+.EIrz6a_is-size-6 {
+
+    font-style: italic !important;
+}
+
+@media screen and (width >=1023px) {
+
+    .EIrz6a_is-size-4 {
+        text-align: left !important;
+    }
+}
